@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343728413633",
+    "firebase_url": "https://kabootar-4034e-default-rtdb.firebaseio.com",
+    "project_id": "kabootar-4034e",
+    "storage_bucket": "kabootar-4034e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343728413633:android:482de52a832faaee38ed40",
+        "android_client_info": {
+          "package_name": "com.example.kabootar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343728413633-75puflssp9h0gb9asupc9himn0u8ru36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kabootar",
+            "certificate_hash": "5f3e45da244be1d0b43a3ef261b935670988db48"
+          }
+        },
+        {
+          "client_id": "343728413633-53d7p3k842kq4hddhmu4p7lfn1sf1u71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryOSGQQ4MCT6I7C8rTid6nNqzfFFxVJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343728413633-53d7p3k842kq4hddhmu4p7lfn1sf1u71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

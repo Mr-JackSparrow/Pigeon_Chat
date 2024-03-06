@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/fragment_call_logs.xml",
+        "source": "com.example.kabootar.app-main-39:/layout/fragment_call_logs.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/calllist.xml",
+        "source": "com.example.kabootar.app-main-39:/layout/calllist.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/fragment_chats.xml",
+        "source": "com.example.kabootar.app-main-39:/layout/fragment_chats.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/signup_and_signin_activity.xml",
+        "source": "com.example.kabootar.app-main-39:/layout/signup_and_signin_activity.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.example.kabootar.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/chatlist.xml",
+        "source": "com.example.kabootar.app-main-39:/layout/chatlist.xml"
+    }
+]

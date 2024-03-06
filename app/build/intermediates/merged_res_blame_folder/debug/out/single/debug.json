@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_phonecall.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/phonecall.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/menu_main_menu.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/layout_signup_and_signin_activity.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/layout/signup_and_signin_activity.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_pngegg.png.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/pngegg.png"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_out_going_icon.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/out_going_icon.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/layout_fragment_chats.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/layout/fragment_chats.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/layout_chatlist.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/layout/chatlist.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_broly.jpg.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/broly.jpg"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/drawable_call_received_icon.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/drawable/call_received_icon.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/layout_fragment_call_logs.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/layout/fragment_call_logs.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/layout_calllist.xml.flat",
+        "source": "com.example.kabootar.app-main-39:/layout/calllist.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kabootar.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]

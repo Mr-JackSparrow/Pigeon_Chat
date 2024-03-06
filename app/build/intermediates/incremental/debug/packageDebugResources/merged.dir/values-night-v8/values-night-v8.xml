@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">343728413633-75puflssp9h0gb9asupc9himn0u8ru36.apps.googleusercontent.com</string>
+    <style name="Base.Theme.Kabootar" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>
