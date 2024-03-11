@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.kabootar.app-mergeDebugResources-35:/values-cs/values-cs.xml",
+            "outputFile": "com.example.kabootar.app-mergeDebugResources-36:/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\yashs\\.gradle\\caches\\transforms-3\\0d9fd560f2c42b93a43fc880ddb2d919\\transformed\\play-services-base-18.1.0\\res\\values-cs\\values.xml",

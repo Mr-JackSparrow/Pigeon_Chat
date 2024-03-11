@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="purple">#AD88C6</color>
+    <color name="red_600">#E53935</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Kabootar</string>
     <string name="default_web_client_id" translatable="false">343728413633-53d7p3k842kq4hddhmu4p7lfn1sf1u71.apps.googleusercontent.com</string>
@@ -16,6 +18,11 @@
         
         
         <item name="android:statusBarColor">@color/black</item>
+    </style>
+    <style name="Circle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">120dp</item>
+        <item name="color">@color/white</item>
     </style>
     <style name="SoftCorner">
         <item name="cornerFamily">rounded</item>

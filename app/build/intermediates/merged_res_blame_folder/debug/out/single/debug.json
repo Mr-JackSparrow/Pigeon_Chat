@@ -1,114 +1,202 @@
 [
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/layout_activity_main.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/layout/activity_main.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_broly.jpg.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\broly.jpg"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_phonecall.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/phonecall.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/menu_main_menu.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/menu/main_menu.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-mdpi_camera.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-mdpi\\camera.png"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/layout_signup_and_signin_activity.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/layout/signup_and_signin_activity.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-mdpi_add_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-mdpi\\add_user.png"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_border_edittext.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\border_edittext.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_pngegg.png.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/pngegg.png"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-anydpi_add_user.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-anydpi\\add_user.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_out_going_icon.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\out_going_icon.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-xhdpi_update_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-xhdpi\\update_user.png"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-anydpi_camera.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-anydpi\\camera.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_out_going_icon.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/out_going_icon.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/layout_fragment_chats.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/layout/fragment_chats.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-anydpi_update_user.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-anydpi\\update_user.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/xml_backup_rules.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_calllist.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\calllist.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-hdpi_camera.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-hdpi\\camera.png"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/layout_chatlist.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/layout/chatlist.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_broly.jpg.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/broly.jpg"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\menu\\main_menu.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_call_received_icon.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\call_received_icon.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_background_register.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\background_register.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/drawable_call_received_icon.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/drawable/call_received_icon.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-xxhdpi_update_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-xxhdpi\\update_user.png"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_pngegg.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\pngegg.png"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/layout_fragment_call_logs.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/layout/fragment_call_logs.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/layout_calllist.xml.flat",
-        "source": "com.example.kabootar.app-main-39:/layout/calllist.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_profile.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\profile.xml"
     },
     {
-        "merged": "com.example.kabootar.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.kabootar.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-xxhdpi_add_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-xxhdpi\\add_user.png"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-hdpi_update_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-hdpi\\update_user.png"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-xhdpi_add_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-xhdpi\\add_user.png"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-hdpi_add_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-hdpi\\add_user.png"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_shape_round.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\shape_round.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-38:/layout_custom_delete_user_dialogbox.xml.flat",
+        "source": "com.example.kabootar.app-main-40:/layout/custom_delete_user_dialogbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_fragment_call_logs.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\fragment_call_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable_phonecall.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable\\phonecall.xml"
+    },
+    {
+        "merged": "com.example.kabootar.app-merged_res-38:/layout_custom_dialogbox_adduser.xml.flat",
+        "source": "com.example.kabootar.app-main-40:/layout/custom_dialogbox_adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_custom_dialogbox_adduser.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\custom_dialogbox_adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\layout_chatlist.xml.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\chatlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-merged_res-38:\\drawable-mdpi_update_user.png.flat",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\drawable-mdpi\\update_user.png"
     }
 ]

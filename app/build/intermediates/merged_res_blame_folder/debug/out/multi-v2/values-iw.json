@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.kabootar.app-mergeDebugResources-35:/values-iw/values-iw.xml",
+            "outputFile": "com.example.kabootar.app-mergeDebugResources-36:/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\yashs\\.gradle\\caches\\transforms-3\\69a441a0435274e720be05ba5602f9b4\\transformed\\material-1.11.0\\res\\values-iw\\values-iw.xml",

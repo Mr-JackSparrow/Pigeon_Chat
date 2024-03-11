@@ -1,26 +1,42 @@
 [
     {
-        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/fragment_call_logs.xml",
-        "source": "com.example.kabootar.app-main-39:/layout/fragment_call_logs.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\fragment_call_logs.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\fragment_call_logs.xml"
     },
     {
-        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/calllist.xml",
-        "source": "com.example.kabootar.app-main-39:/layout/calllist.xml"
+        "merged": "com.example.kabootar.app-mergeDebugResources-37:/layout/custom_dialogbox_adduser.xml",
+        "source": "com.example.kabootar.app-main-40:/layout/custom_dialogbox_adduser.xml"
     },
     {
-        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/fragment_chats.xml",
-        "source": "com.example.kabootar.app-main-39:/layout/fragment_chats.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\activity_signin.xml"
     },
     {
-        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/signup_and_signin_activity.xml",
-        "source": "com.example.kabootar.app-main-39:/layout/signup_and_signin_activity.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\fragment_chats.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\fragment_chats.xml"
     },
     {
-        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/activity_main.xml",
-        "source": "com.example.kabootar.app-main-39:/layout/activity_main.xml"
+        "merged": "com.example.kabootar.app-mergeDebugResources-37:/layout/custom_delete_user_dialogbox.xml",
+        "source": "com.example.kabootar.app-main-40:/layout/custom_delete_user_dialogbox.xml"
     },
     {
-        "merged": "com.example.kabootar.app-mergeDebugResources-36:/layout/chatlist.xml",
-        "source": "com.example.kabootar.app-main-39:/layout/chatlist.xml"
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\calllist.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\calllist.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\custom_dialogbox_adduser.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\custom_dialogbox_adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\profile.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-mergeDebugResources-37:\\layout\\chatlist.xml",
+        "source": "C:\\Users\\yashs\\.gradle\\daemon\\8.2\\com.example.kabootar.app-main-40:\\layout\\chatlist.xml"
     }
 ]

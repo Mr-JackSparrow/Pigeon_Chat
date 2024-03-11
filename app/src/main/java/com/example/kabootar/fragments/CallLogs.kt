@@ -28,7 +28,7 @@ class CallLogs : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        arr = mutableListOf(DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[....1", "Yash"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Yash Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Yash Surendra Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Manisha"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Manisha Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Manisha Surendra Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Surendra"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Surendra Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Surendra GorakhNath Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Karan"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[","Karan Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Karan Surendra Jadhav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[", "Saurav"),DataModel(R.drawable.broly, "fqefhqfewsdqf[ew[......n", "Shubham"))
+        arr = mutableListOf()
 
         callAdapter = CallRecyclerViewAdapter(arr,requireContext())
 

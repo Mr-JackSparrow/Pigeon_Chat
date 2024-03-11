@@ -4,6 +4,7 @@ package com.example.kabootar.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
@@ -22,6 +23,9 @@ public final class ActivityMainBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final ProgressBar progressBar;
+
+  @NonNull
   public final TabLayout tbLayout;
 
   @NonNull
@@ -30,9 +34,10 @@ public final class ActivityMainBinding implements ViewBinding {
   @NonNull
   public final ViewPager2 vPgr2;
 
-  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull TabLayout tbLayout,
-      @NonNull Toolbar tbMainToolBar, @NonNull ViewPager2 vPgr2) {
+  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull ProgressBar progressBar,
+      @NonNull TabLayout tbLayout, @NonNull Toolbar tbMainToolBar, @NonNull ViewPager2 vPgr2) {
     this.rootView = rootView;
+    this.progressBar = progressBar;
     this.tbLayout = tbLayout;
     this.tbMainToolBar = tbMainToolBar;
     this.vPgr2 = vPgr2;
@@ -65,6 +70,12 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.progressBar;
+      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
+      if (progressBar == null) {
+        break missingId;
+      }
+
       id = R.id.tbLayout;
       TabLayout tbLayout = ViewBindings.findChildViewById(rootView, id);
       if (tbLayout == null) {
@@ -83,7 +94,8 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, tbLayout, tbMainToolBar, vPgr2);
+      return new ActivityMainBinding((ConstraintLayout) rootView, progressBar, tbLayout,
+          tbMainToolBar, vPgr2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

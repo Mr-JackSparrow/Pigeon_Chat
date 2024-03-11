@@ -13,4 +13,10 @@
         <item name="cornerSize">25dp</item>
         <item name="color">@color/white</item>
     </style>
+
+    <style name="Circle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">120dp</item>
+        <item name="color">@color/white</item>
+    </style>
 </resources>

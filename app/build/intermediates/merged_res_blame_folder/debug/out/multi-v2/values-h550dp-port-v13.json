@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.kabootar.app-mergeDebugResources-35:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "outputFile": "com.example.kabootar.app-mergeDebugResources-36:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\yashs\\.gradle\\caches\\transforms-3\\69a441a0435274e720be05ba5602f9b4\\transformed\\material-1.11.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",

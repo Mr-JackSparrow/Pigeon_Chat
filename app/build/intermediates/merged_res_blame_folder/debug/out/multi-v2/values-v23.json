@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.kabootar.app-mergeDebugResources-35:/values-v23/values-v23.xml",
+            "outputFile": "com.example.kabootar.app-mergeDebugResources-36:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\yashs\\.gradle\\caches\\transforms-3\\1ceb6b1715966db2fe8d94627b1c945c\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

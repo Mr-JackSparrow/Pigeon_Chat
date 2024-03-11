@@ -28,6 +28,9 @@ public final class ChatlistBinding implements ViewBinding {
   public final LinearLayout linearLayout;
 
   @NonNull
+  public final ConstraintLayout mainChat;
+
+  @NonNull
   public final TextView tvLastMsg;
 
   @NonNull
@@ -38,11 +41,12 @@ public final class ChatlistBinding implements ViewBinding {
 
   private ChatlistBinding(@NonNull ConstraintLayout rootView,
       @NonNull ShapeableImageView ivCallProfileImg, @NonNull LinearLayout linearLayout,
-      @NonNull TextView tvLastMsg, @NonNull TextView tvLastMsgTime,
-      @NonNull TextView tvProfileName) {
+      @NonNull ConstraintLayout mainChat, @NonNull TextView tvLastMsg,
+      @NonNull TextView tvLastMsgTime, @NonNull TextView tvProfileName) {
     this.rootView = rootView;
     this.ivCallProfileImg = ivCallProfileImg;
     this.linearLayout = linearLayout;
+    this.mainChat = mainChat;
     this.tvLastMsg = tvLastMsg;
     this.tvLastMsgTime = tvLastMsgTime;
     this.tvProfileName = tvProfileName;
@@ -87,6 +91,8 @@ public final class ChatlistBinding implements ViewBinding {
         break missingId;
       }
 
+      ConstraintLayout mainChat = (ConstraintLayout) rootView;
+
       id = R.id.tvLastMsg;
       TextView tvLastMsg = ViewBindings.findChildViewById(rootView, id);
       if (tvLastMsg == null) {
@@ -106,7 +112,7 @@ public final class ChatlistBinding implements ViewBinding {
       }
 
       return new ChatlistBinding((ConstraintLayout) rootView, ivCallProfileImg, linearLayout,
-          tvLastMsg, tvLastMsgTime, tvProfileName);
+          mainChat, tvLastMsg, tvLastMsgTime, tvProfileName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

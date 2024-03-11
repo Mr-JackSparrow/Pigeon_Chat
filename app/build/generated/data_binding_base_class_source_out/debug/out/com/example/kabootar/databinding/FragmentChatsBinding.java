@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.kabootar.R;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,11 +21,15 @@ public final class FragmentChatsBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
+  public final FloatingActionButton btnAddUser;
+
+  @NonNull
   public final RecyclerView rvChatRecyclerView;
 
   private FragmentChatsBinding(@NonNull FrameLayout rootView,
-      @NonNull RecyclerView rvChatRecyclerView) {
+      @NonNull FloatingActionButton btnAddUser, @NonNull RecyclerView rvChatRecyclerView) {
     this.rootView = rootView;
+    this.btnAddUser = btnAddUser;
     this.rvChatRecyclerView = rvChatRecyclerView;
   }
 
@@ -55,13 +60,19 @@ public final class FragmentChatsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.btnAddUser;
+      FloatingActionButton btnAddUser = ViewBindings.findChildViewById(rootView, id);
+      if (btnAddUser == null) {
+        break missingId;
+      }
+
       id = R.id.rvChatRecyclerView;
       RecyclerView rvChatRecyclerView = ViewBindings.findChildViewById(rootView, id);
       if (rvChatRecyclerView == null) {
         break missingId;
       }
 
-      return new FragmentChatsBinding((FrameLayout) rootView, rvChatRecyclerView);
+      return new FragmentChatsBinding((FrameLayout) rootView, btnAddUser, rvChatRecyclerView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
